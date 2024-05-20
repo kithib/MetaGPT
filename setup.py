@@ -64,7 +64,7 @@ extras_require = {
         "shapely",
         "groundingdino-py",
         "datasets==2.18.0",
-        "clip-openai"
+        "clip-openai",
     ],
 }
 
@@ -116,5 +116,4 @@ setup(
         ],
     },
     include_package_data=True,
-
 )
